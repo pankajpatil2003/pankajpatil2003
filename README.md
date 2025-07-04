@@ -38,6 +38,29 @@ Brainstem Digital Solution Private Limited
 
 ---
 
+## 🛠️ Tech Stack & Skills
+
+- **Languages:** Python, SQL
+- **Frameworks:** Django
+- **Tools & Technologies:** Docker, REST APIs
+- **Other:** Leadership, Mentoring, Problem Solving
+
+---
+
+## 🌟 Featured Projects
+
+*Coming soon! I’ll be showcasing my favorite and most impactful projects here as I continue my journey on GitHub.*
+
+---
+
+## 💡 Fun Facts & Interests
+
+- 🚴‍♂️ Love cycling and exploring new trails
+- 💻 Always eager to learn new technologies and tools
+- 🤓 Passionate about sharing knowledge and mentoring others
+
+---
+
 ### 🔗 Let’s Connect
 
 [LinkedIn: www.linkedin.com/in/pankaj-patil-77a42922b](https://www.linkedin.com/in/pankaj-patil-77a42922b)
