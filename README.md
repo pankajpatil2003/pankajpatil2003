@@ -6,17 +6,14 @@
 
 ### 💼 Current Role  
 **Backend Developer**  
-Brainstem Digital Solution Private Limited
-
-- Specializing in Python, Django, and SQL
-- Building robust, scalable backend systems
+NA
 
 ---
 
 ### 🎓 Education
 
 - **MCA (Pursuing)**  
-  SGSITS College
+  SGSITS College, Indore
 - **BCA**  
   Career College, Bhopal
 
