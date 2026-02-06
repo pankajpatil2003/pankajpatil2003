@@ -10,9 +10,9 @@
 
 <img align="right" height="200" src="https://media1.tenor.com/m/SEYYWOEhi7EAAAAd/khars-profile-pic.gif" style="margin-top: 30px;" />
 
-🎓 **MCA Student** at SGSITS College, Indore | **BCA Graduate**  
-💼 **Backend Developer** specializing in Python, Django & SQL  
-🏆 **President** - Computer Science Department (2023-2024)  
+💼 **Director** at BharatNexis IT Solutions
+🎓 **MCA Student** at SGSITS College, Indore | **BCA Graduate**    
+🏆 **President** - Computer Science Department (2023-2024), Career clg,Bhopal
 🧙 **Learning Wizard** - DCIM Club  
 🚴‍♂️ Cycling enthusiast | Always learning | Passionate mentor
 
