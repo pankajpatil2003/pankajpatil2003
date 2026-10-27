@@ -10,7 +10,6 @@
 
 <img align="right" height="200" src="https://media1.tenor.com/m/SEYYWOEhi7EAAAAd/khars-profile-pic.gif" style="margin-top: 30px;" />
 
-💼 **Director** at BharatNexis IT Solutions
 
 🎓 **MCA Student** at SGSITS College, Indore | **BCA Graduate**    
 
