@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="200" src="https://media1.tenor.com/m/SEYYWOEhi7EAAAAd/khars-profile-pic.gif" alt="Animated character" />
+<!-- <img align="right" width="200" src="https://media1.tenor.com/m/SEYYWOEhi7EAAAAd/khars-profile-pic.gif" alt="Animated character" /> -->
 
 ```python
 class PankajPatil:
